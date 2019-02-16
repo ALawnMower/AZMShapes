@@ -2,7 +2,7 @@ import java.lang.Math.*;
 
 import java.util.Scanner;
 
-
+// This project calculates the surfArea and volume of various shapes.
 
 class ShapeTester {
 
